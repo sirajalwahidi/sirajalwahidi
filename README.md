@@ -1,17 +1,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sirajalwahidi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajalwahidi&layout=compact)
-# 👋 Hi, I'm Siraj
 
-## 💼 Software Engineer
-Android Developer | Java Specialist | Backend Developer | Database Engineer
+# 👋 Hi, I'm Siraj Alwahidi
+## 💼 Junior Software Engineer
+Android Developer | Backend Developer | QA Contributor
 
 ---
 
 ## 🚀 Professional Summary
-
-Software Engineer with experience in building mobile applications, backend systems, and structured databases.
-
-I focus on system reliability, clean architecture, scalable backend APIs, and well-designed database schemas.
+Junior Software Engineer with hands-on experience in building 
+production-ready systems across Android mobile and backend development. 
+Developed an integrated aid management system for the Palestinian Red 
+Crescent Society, covering RESTful APIs, role-based access control, and 
+offline data synchronization. Deep engineering mindset focused on 
+understanding systems from the ground up, with a strong passion for 
+computer science and continuous learning.
 
 ---
 
@@ -19,38 +22,36 @@ I focus on system reliability, clean architecture, scalable backend APIs, and we
 
 ### 📱 Android Development
 - Java (Primary)
-- Kotlin
 - MVVM & MVC Architecture
 - REST API Integration
 - Local Databases (SQLite, Realm)
-- Application Performance Optimization
-
-### ☕ Java Engineering
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- Multithreading Basics
-- Android Java Development
-- Clean Code Practices
+- Firebase Integration
+- Retrofit & Volley
 
 ### 🌐 Backend Development
 - Laravel (PHP)
 - RESTful API Design
 - Authentication & Authorization
+- Role-Based Access Control
+- Excel Export & Reporting
 - Server-side Validation
-- Business Logic Implementation
 
 ### 🗄️ Database Systems
 - MySQL
 - SQLite
 - SQLServer
 - Database Schema Design
-- Query Optimization
 - Relational Data Modeling
+
+### 🧪 QA & Testing
+- Manual Testing & Bug Reporting
+- Kotlin-based Test Cases (AI-assisted)
+- Dependency Injection Testing (Koin)
+- Open Source QA Contribution
 
 ---
 
 ## 🏗 Engineering Approach
-
 - Clean Architecture
 - Separation of Concerns
 - Scalable System Design
@@ -60,34 +61,69 @@ I focus on system reliability, clean architecture, scalable backend APIs, and we
 ---
 
 ## 🛠 Development Tools
-
 - Android Studio
 - Git & GitHub
-- Gradle
 - Postman
+- Gradle
 - VS Code
-- Database Management Tools
 
 ---
 
-## 📌 Areas of Interest
+## 📌 Featured Projects
 
-- Scalable Android Applications
-- Backend API Architecture
-- Database Optimization
-- System Integration Projects
-- Software Performance Tuning
+### 🔴 PRCS N-GAZA System *(Private)*
+Full integrated aid management system for the Palestinian Red Crescent 
+Society — North Gaza.
+- Native Android app (Java)
+- Laravel RESTful API backend
+- Role-based access control
+- Offline data synchronization
+- Excel export for reporting
+- Admin dashboard for data management
+
+### 🏢 Towers Management System *(Private)*
+Residential towers management system covering residents' data, 
+workflows, and administrative processes.
+- Native Android app (Java)
+- Laravel backend & web platform
+
+### 🌐 Laravel API Project *(Public)*
+[First_Project_Laravel_API](https://github.com/sirajalwahidi/First_Project_Laravel_API)
+RESTful API built with Laravel demonstrating backend development skills.
+
+### 📡 Retrofit API Project *(Public)*
+[Retrofit-Api-Project](https://github.com/sirajalwahidi/Retrofit-Api-Project)
+Android project demonstrating REST API integration using Retrofit.
+
+### 🔥 Firebase Project *(Public)*
+[First_Firebase_Project](https://github.com/sirajalwahidi/First_Firebase_Project)
+Android app integrating Firebase services.
 
 ---
 
-## 📫 Contact & Collaboration
+## 🤝 Open Source Contribution
+Contributed as a **QA Tester** to 
+[mushaf-imad-android](https://github.com/YahiaRagae/mushaf-imad-android) —
+a public Android library.
+- Performed QA testing for Error Handling & Koin Compatibility
+- Wrote test cases validating Dependency Injection behavior
+- Issue successfully closed and approved by the project owner
 
-Open to:
+---
+
+## 💼 Freelance Experience
+Available for freelance work on:
 - Android & Java Projects
-- Backend Development Tasks
+- Backend API Development (Laravel)
 - Database Design & Optimization
-- Technical Consulting
+- QA Testing & Bug Reporting
 
 ---
 
-⭐ Building reliable software systems with structured architecture and long-term maintainability.
+## 📫 Contact
+- 📧 serajalwahidi@gmail.com
+
+---
+
+⭐ Building reliable software systems with structured architecture 
+and long-term maintainability.
